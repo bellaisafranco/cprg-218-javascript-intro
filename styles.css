@@ -1,3 +1,9 @@
 *{
     box-sizing:border-box;
    }
+#light_off{display: none;}
+body{
+    background-color: black; color: black;}
+.light{
+    background-color: aquamarine; color: black;}
+    
