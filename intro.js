@@ -21,6 +21,7 @@ document.getElementById("lightbulb").src="lightbulb_off.webp";
 //do line 11 and 12 in reverse to create a loop of turning on and off light bulb
 document.getElementById("light_off").style.display="none";
 document.getElementById("light_on").style.display="initial";
+document.body.classList.toggle("light")
 }
 );
 

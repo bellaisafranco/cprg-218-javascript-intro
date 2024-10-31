@@ -3,6 +3,6 @@
    }
 #light_off{display: none;}
 body{
-    background-color: black; color: black;}
+    background-color: black; color: gray;}
 .light{
     background-color: aquamarine; color: black;}
